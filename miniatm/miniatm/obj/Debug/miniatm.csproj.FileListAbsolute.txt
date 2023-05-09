@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\bin\Debug\miniatm.exe.config
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\bin\Debug\miniatm.exe
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\bin\Debug\miniatm.pdb
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\obj\Debug\miniatm.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\obj\Debug\miniatm.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\obj\Debug\miniatm.exe
+C:\Users\Ahmet Mahmut\source\repos\miniatm\miniatm\obj\Debug\miniatm.pdb

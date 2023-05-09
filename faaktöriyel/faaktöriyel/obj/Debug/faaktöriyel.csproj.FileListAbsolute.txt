@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\bin\Debug\faaktöriyel.exe.config
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\bin\Debug\faaktöriyel.exe
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\bin\Debug\faaktöriyel.pdb
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\obj\Debug\faaktöriyel.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\obj\Debug\faaktöriyel.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\obj\Debug\faaktöriyel.exe
+C:\Users\Ahmet Mahmut\source\repos\faaktöriyel\faaktöriyel\obj\Debug\faaktöriyel.pdb

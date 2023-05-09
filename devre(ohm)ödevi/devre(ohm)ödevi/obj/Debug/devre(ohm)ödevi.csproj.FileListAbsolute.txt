@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\bin\Debug\devre(ohm)ödevi.exe.config
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\bin\Debug\devre(ohm)ödevi.exe
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\bin\Debug\devre(ohm)ödevi.pdb
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\obj\Debug\devre(ohm)ödevi.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\obj\Debug\devre(ohm)ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\obj\Debug\devre(ohm)ödevi.exe
+C:\Users\Ahmet Mahmut\source\repos\devre(ohm)ödevi\devre(ohm)ödevi\obj\Debug\devre(ohm)ödevi.pdb

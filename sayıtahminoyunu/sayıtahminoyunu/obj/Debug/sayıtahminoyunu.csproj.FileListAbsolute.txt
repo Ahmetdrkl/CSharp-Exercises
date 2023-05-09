@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.exe.config
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.exe
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\bin\Debug\sayıtahminoyunu.pdb
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.exe
+C:\Users\Ahmet Mahmut\source\repos\sayıtahminoyunu\sayıtahminoyunu\obj\Debug\sayıtahminoyunu.pdb

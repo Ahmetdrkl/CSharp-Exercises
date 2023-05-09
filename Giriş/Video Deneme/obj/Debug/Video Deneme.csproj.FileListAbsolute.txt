@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\bin\Debug\Video Deneme.exe.config
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\bin\Debug\Video Deneme.exe
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\bin\Debug\Video Deneme.pdb
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\obj\Debug\Video Deneme.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\obj\Debug\Video Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\obj\Debug\Video Deneme.exe
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Video Deneme\obj\Debug\Video Deneme.pdb

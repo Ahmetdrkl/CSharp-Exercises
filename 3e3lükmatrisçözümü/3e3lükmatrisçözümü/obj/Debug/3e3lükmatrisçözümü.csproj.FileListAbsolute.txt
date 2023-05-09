@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\bin\Debug\3e3lükmatrisçözümü.exe.config
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\bin\Debug\3e3lükmatrisçözümü.exe
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\bin\Debug\3e3lükmatrisçözümü.pdb
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\obj\Debug\3e3lükmatrisçözümü.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\obj\Debug\3e3lükmatrisçözümü.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\obj\Debug\3e3lükmatrisçözümü.exe
+C:\Users\Ahmet Mahmut\source\repos\3e3lükmatrisçözümü\3e3lükmatrisçözümü\obj\Debug\3e3lükmatrisçözümü.pdb

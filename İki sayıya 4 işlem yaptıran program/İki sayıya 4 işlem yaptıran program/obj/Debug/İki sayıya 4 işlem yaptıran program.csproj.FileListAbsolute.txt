@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\bin\Debug\İki sayıya 4 işlem yaptıran program.exe.config
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\bin\Debug\İki sayıya 4 işlem yaptıran program.exe
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\bin\Debug\İki sayıya 4 işlem yaptıran program.pdb
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\obj\Debug\İki sayıya 4 işlem yaptıran program.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\obj\Debug\İki sayıya 4 işlem yaptıran program.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\obj\Debug\İki sayıya 4 işlem yaptıran program.exe
+C:\Users\Ahmet Mahmut\source\repos\İki sayıya 4 işlem yaptıran program\İki sayıya 4 işlem yaptıran program\obj\Debug\İki sayıya 4 işlem yaptıran program.pdb

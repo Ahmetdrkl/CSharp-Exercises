@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\bin\Debug\aritmetikortalama.exe.config
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\bin\Debug\aritmetikortalama.exe
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\bin\Debug\aritmetikortalama.pdb
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\obj\Debug\aritmetikortalama.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\obj\Debug\aritmetikortalama.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\obj\Debug\aritmetikortalama.exe
+C:\Users\Ahmet Mahmut\source\repos\aritmetikortalama\aritmetikortalama\obj\Debug\aritmetikortalama.pdb

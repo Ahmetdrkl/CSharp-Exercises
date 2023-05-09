@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\bin\Debug\Giriş.exe.config
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\bin\Debug\Giriş.exe
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\bin\Debug\Giriş.pdb
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\obj\Debug\Giriş.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\obj\Debug\Giriş.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\obj\Debug\Giriş.exe
+C:\Users\Ahmet Mahmut\source\repos\Giriş\Giriş\obj\Debug\Giriş.pdb

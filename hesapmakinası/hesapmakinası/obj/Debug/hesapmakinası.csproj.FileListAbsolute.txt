@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\bin\Debug\hesapmakinası.exe.config
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\bin\Debug\hesapmakinası.exe
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\bin\Debug\hesapmakinası.pdb
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\obj\Debug\hesapmakinası.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\obj\Debug\hesapmakinası.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\obj\Debug\hesapmakinası.exe
+C:\Users\Ahmet Mahmut\source\repos\hesapmakinası\hesapmakinası\obj\Debug\hesapmakinası.pdb

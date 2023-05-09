@@ -1,0 +1,7 @@
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\bin\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.exe.config
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\bin\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.exe
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\bin\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.pdb
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\obj\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.csproj.AssemblyReference.cache
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\obj\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\obj\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.exe
+C:\Users\Ahmet Mahmut\source\repos\klavyeden girilen 3 sayının en büyüğünü bulma\klavyeden girilen 3 sayının en büyüğünü bulma\obj\Debug\klavyeden girilen 3 sayının en büyüğünü bulma.pdb
